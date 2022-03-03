@@ -7,7 +7,7 @@
 
 
 > ***U130da and FerriVer are not responsible for any misuse of this exploit***
-
+>> G⁴ stands for "Good Game Go Gardian" (I know it doesn't make sense math-wise, but I thought it sounded cool so whatever)
 ---
 
 # Setup steps:
